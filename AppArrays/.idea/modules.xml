@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppArrays.iml" filepath="$PROJECT_DIR$/AppArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppArrays.iml" filepath="$PROJECT_DIR$/.idea/AppArrays.iml" />
     </modules>
   </component>
 </project>
